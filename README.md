@@ -3,4 +3,4 @@
 
 github rep: https://github.com/HaileyNFine/IDEA3100-GameDesign.git 
 
-link to video: 
+link to video: https://youtu.be/eoWP2tF2N6M
